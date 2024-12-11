@@ -1,3 +1,4 @@
 Hi
 Welcome to Azure
 All is well
+Azure is 1
